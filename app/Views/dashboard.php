@@ -267,10 +267,10 @@
                 <!--begin::Brand Link-->
                 <a href="<?= base_url() ?>/template/dist/index.html" class="brand-link">
                     <!--begin::Brand Image-->
-                    <!-- <img
-                        src="<?= base_url() ?>/template/dist/assets/img/AdminLTELogo.png"
+                    <img
+                        src="<?= base_url() ?>/images/logo.png"
                         alt="AdminLTE Logo"
-                        class="brand-image opacity-75 shadow" /> -->
+                        class="brand-image opacity-75 shadow" />
                     <!--end::Brand Image-->
                     <!--begin::Brand Text-->
                     <span class="brand-text fw-semibold">Blackshark</span>
